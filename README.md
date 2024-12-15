@@ -1,1 +1,1 @@
-# a-r-z-mleri
+motoko dilinde yazılmış ağrı çözümleri sitesi.
